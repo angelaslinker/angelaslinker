@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm Angela Slinker, a passionate software develope
 
 ## 📚 Projects
 
-### [C'est La Vie](https://github.com/angelaslinker/Senior-Project)
+### [Senior Project](https://github.com/angelaslinker/Senior-Project)
 **Technologies:** HTML, CSS, JavaScript, Node.js, MongoDB
 
 ### [Full Stack Angular Showcase](https://github.com/angelaslinker/WDD-430)
